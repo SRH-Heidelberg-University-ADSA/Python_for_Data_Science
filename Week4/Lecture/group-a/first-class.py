@@ -78,7 +78,7 @@ def timer(func):
         end = time.perf_counter()
         print(f"{ func.__name__  } took {end -start} seconds ")
 
-    return 1
+    return inner_function
 
 
 @timer  # result = timer(file_reader)   --> result()

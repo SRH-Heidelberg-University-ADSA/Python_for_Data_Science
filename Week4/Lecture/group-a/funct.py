@@ -3,7 +3,7 @@ def my_function(param1, param2):
     print(param2)
 
 
-my_function(param2="a",1)
+my_function(1, 2)
 
 
 def my_function_any(*args):
