@@ -1,4 +1,4 @@
-import requests
+import requests  # need pip install
 
 url = "https://api.example.com/weather?weather=Berlin"
 url = "https://jsonplaceholder.typicode.com/posts/1"
