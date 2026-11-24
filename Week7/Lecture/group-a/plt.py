@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # need pip install before
 
 days = ["mon", "tue", "wed", "thu"]
 delay = [20, 30, 22, 5]

@@ -1,4 +1,4 @@
-import requests  # need pip install
+import requests  # need pip install beofre
 
 url = "https://api.example.com/weather?weather=Berlin"
 url = "https://jsonplaceholder.typicode.com/posts/1"
